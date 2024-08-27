@@ -5,8 +5,8 @@ Terraform is a tool that helps create and manage infrastructure using code. It u
 you can work with any cloud platform using Terraform, eliminating the need to learn specific templating tools for each cloud provider.
 
 # Different cloud providers offer their own infrastructure templating languages:
-• AWS provides CloudFormation Templates (CFT).
-• Azure uses Resource Manager templates (ARM templates).
+• AWS provides CloudFormation Templates (CFT).  
+• Azure uses Resource Manager templates (ARM templates).  
 • OpenStack offers Heat templates.
 
 # Common Terraform Commands:
