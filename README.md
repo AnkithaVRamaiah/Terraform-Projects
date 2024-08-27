@@ -10,9 +10,9 @@ you can work with any cloud platform using Terraform, eliminating the need to le
 • OpenStack offers Heat templates.
 
 # Common Terraform Commands:
-• terraform init - Initializes the configuration and sets up the backend for storing the state.
-• terraform plan - Performs a dry run to show what changes Terraform will make.
-• terraform apply - Applies the changes defined in the Terraform files to create or update resources.
+• terraform init - Initializes the configuration and sets up the backend for storing the state.  
+• terraform plan - Performs a dry run to show what changes Terraform will make.  
+• terraform apply - Applies the changes defined in the Terraform files to create or update resources.  
 • terraform destroy - Destroys all resources that were created by Terraform.
 
 # Terraform Architecture:
