@@ -12,6 +12,8 @@ Common Terraform Commands:
 •	terraform plan - Performs a dry run to show what changes Terraform will make.
 •	terraform apply - Applies the changes defined in the Terraform files to create or update resources.
 •	terraform destroy - Destroys all resources that were created by Terraform.
+[About Terraform.docx](https://github.com/user-attachments/files/16761927/About.Terraform.docx)
+
 
 Terraform Architecture:
 ![image](https://github.com/user-attachments/assets/e598e234-b35f-43b5-93c0-24a32630182e)
