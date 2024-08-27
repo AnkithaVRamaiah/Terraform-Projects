@@ -1,7 +1,8 @@
 # Terraform
 Terraform is a tool that helps create and manage infrastructure using code. It utilizes the HashiCorp Configuration Language (HCL) for defining infrastructure as code.
 
-# By learning HCL, you can work with any cloud platform using Terraform, eliminating the need to learn specific templating tools for each cloud provider.
+# By learning HCL
+you can work with any cloud platform using Terraform, eliminating the need to learn specific templating tools for each cloud provider.
 
 # Different cloud providers offer their own infrastructure templating languages:
 • AWS provides CloudFormation Templates (CFT).
